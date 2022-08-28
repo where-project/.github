@@ -1,7 +1,7 @@
 # Where: Blockchain Destekli Rezervasyon Sistemi 👩‍💻
-### 1 - [INTRODUCTION](https://github.com/where-project/.github/edit/main/profile/README.md#1-introduction)
-### 2 - [DESIGN](https://github.com/where-project/.github/edit/main/profile/README.md#2-design)
-### 3 - [THE WORKS OF TEAM MEMBERS](https://github.com/where-project/.github/edit/main/profile/README.md#3-the-works-of-team-members)
+### 1 - [INTRODUCTION](https://github.com/where-project#1-introduction)
+### 2 - [DESIGN](https://github.com/where-project#2-design)
+### 3 - [THE WORKS OF TEAM MEMBERS](https://github.com/where-project#3-the-works-of-team-members)
 
 ## 1. INTRODUCTION
   Hedeflenen bu uygulama, bulunduğunuz bölgede yeni yerler keşfedebilmenizi, gittiğiniz mekanlarda alacağınız hizmetin ne kadar iyi olabileceği konusunda yorum ve puanlamalara dayanarak tahminde bulunmanızı sağlamaktadır. Bunun yanında restoran, otel veya rezervasyon sistemi ile çalışan işletme ve mekanlara gitmeden önce aracı bir tarafa ihtiyaç duymadan blockchain destekli rezervasyon yapma imkânı sunmaktadır. Yanınızda bulundurduğunuz bir rehber olarak size yol göstermektedir.
