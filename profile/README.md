@@ -22,3 +22,14 @@ Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin ve
 
 #### Register Ekranı
 ![image](https://user-images.githubusercontent.com/61885344/187069571-4975d7bd-8c86-415a-875e-96031bfec541.png)
+
+### Ana Sayfa
+![image](https://user-images.githubusercontent.com/61885344/187069681-58591fe3-b4d8-4f7c-94d4-c461beade2d7.png)
+
+### Mekan Listeleme Ekranı 
+![image](https://user-images.githubusercontent.com/61885344/187069702-703ae2de-5cb6-41bd-b8fd-2ee0b9b0a8ba.png)
+
+### Mekan Detay Ekranları
+![image](https://user-images.githubusercontent.com/61885344/187069793-12350479-8370-4557-9994-409564bc3d2a.png)
+
+
