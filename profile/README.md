@@ -35,6 +35,12 @@ Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin ve
 
 - ### Venue Detail Screens
 ![image](https://user-images.githubusercontent.com/61885344/187073755-24ec2d15-e151-49df-9e9a-4d04b0716006.png)
+> - ### Overview Screen ![image](https://user-images.githubusercontent.com/61885344/187074887-7f89a673-5737-4416-8d8d-a8c428cf6c34.png)
+> - ### Pricing Screen ![image](https://user-images.githubusercontent.com/61885344/187074931-b10c695f-8afb-45c5-b289-116c3cfd58fe.png)
+> - ### Location Screen ![image](https://user-images.githubusercontent.com/61885344/187074968-d4dc1b94-39b3-4f44-9abe-5f2cb4e429a2.png)
+> - ### Review Screen ![image](https://user-images.githubusercontent.com/61885344/187075207-98c1dae1-cb60-42d8-963f-b1c3cae4bae9.png) ![image](https://user-images.githubusercontent.com/61885344/187075242-48cd2f3d-490f-451f-97bc-6840aca8b396.png)
+> - ### Reservation Screen ![image](https://user-images.githubusercontent.com/61885344/187075055-c22abd4b-77fd-40de-b039-8fce06ec2b39.png)
+
 
 ## 3. THE WORKS OF TEAM MEMBERS
 >* [Onur Akkepenek](https://github.com/OnurAkkepenekk)
