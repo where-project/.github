@@ -41,8 +41,10 @@ Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin ve
 > - ### Review Screen ![image](https://user-images.githubusercontent.com/61885344/187075207-98c1dae1-cb60-42d8-963f-b1c3cae4bae9.png) ![image](https://user-images.githubusercontent.com/61885344/187075242-48cd2f3d-490f-451f-97bc-6840aca8b396.png)
 > - ### Reservation Screen ![image](https://user-images.githubusercontent.com/61885344/187075055-c22abd4b-77fd-40de-b039-8fce06ec2b39.png)![image](https://user-images.githubusercontent.com/61885344/187477763-3ffa3638-128b-4997-8664-cbfbe44261c1.png)
 
-- ### Confirmation Mail ![image](https://user-images.githubusercontent.com/61885344/187477491-3dc426da-9bbb-400b-9e59-9bf06bc0192c.png)
-- ### Transaction Screen ![image](https://user-images.githubusercontent.com/61885344/187477661-3b6e9206-4bc9-4eb1-b177-c363205ae638.png)
+- ### Confirmation Mail 
+![image](https://user-images.githubusercontent.com/61885344/187477491-3dc426da-9bbb-400b-9e59-9bf06bc0192c.png)
+- ### Transaction Screen 
+![image](https://user-images.githubusercontent.com/61885344/187477661-3b6e9206-4bc9-4eb1-b177-c363205ae638.png)
 - ### Contact Screen 
 ![image](https://user-images.githubusercontent.com/61885344/187477994-cadc0753-a114-4623-8f8b-3374ab206565.png)
 - ### Add Venue Screen
@@ -50,7 +52,7 @@ Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin ve
 >  ### ![image](https://user-images.githubusercontent.com/61885344/187478466-a68ce614-9fe5-49d5-93e3-cef058ca3d50.png)
 >  ### ![image](https://user-images.githubusercontent.com/61885344/187478499-64237f09-7b40-439d-b8ca-11d17ec2e9d3.png) 
 >  ### ![image](https://user-images.githubusercontent.com/61885344/187478521-8715e0e1-974b-44ed-9ece-8ce29c79853a.png)
-- #### Delete Venue Screen 
+- ### Delete Venue Screen 
 ![image](https://user-images.githubusercontent.com/61885344/187478636-22cd68d9-7c98-432e-a3aa-0e614fc21112.png)
 
 
