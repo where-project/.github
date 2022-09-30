@@ -14,6 +14,7 @@ The project is written using the popular **Java (Spring Boot framework)**, **Rea
 
 We will use the client-server model in our project. According to this model, we can say that a client is a machine that requests data or services. The server is the machine that returns services and data to the client. Servers listen for incoming network requests. In the client-server architecture we created, all requests and services are delivered over a network.
 
+---
   _Hedeflenen bu uygulama, bulunduğunuz bölgede yeni yerler keşfedebilmenizi, gittiğiniz mekanlarda alacağınız hizmetin ne kadar iyi olabileceği konusunda yorum ve puanlamalara dayanarak tahminde bulunmanızı sağlamaktadır. Bunun yanında restoran, otel veya rezervasyon sistemi ile çalışan işletme ve mekanlara gitmeden önce aracı bir tarafa ihtiyaç duymadan blockchain destekli rezervasyon yapma imkânı sunmaktadır. Yanınızda bulundurduğunuz bir rehber olarak size yol göstermektedir._
 
 _Turistik gezi planlayan veya farklı, yeni işletme ve yerleri keşfetmek isteyen kişilerin daha planlı bir şekilde hareket etmelerini ve kişilerin memnuniyetlerini artırmayı amaçlayan bir platform oluşturmaktır. Bu amaç doğrultusunda gerçekleştireceğimiz proje, insanların mekanları listeleyebildiği, bu mekanlara ait yorum ve puanları görebildiği, mekanlara rezervasyon gerçekleştirebildiği bir ortam oluşturmaktadır. Böylece insanların yeni mekanlar keşfetmesini ve kaliteli zaman geçirmesini sağlayan bir web uygulaması olacaktır._
@@ -26,6 +27,7 @@ _Projemizde client(istemci)-server(sunucu) modeli kullanacağız. Bu modele gör
 
 Our application will allow listing all registered reservations. The person who wants to make a reservation will send crypto money. Smart contracts are the structures responsible for sending the payment to the owner of the place where the reservation will be made (business owner) and giving the reservation to the buyer.
 
+---
 _Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin verecektir. Rezervasyon yaptırmak isteyen kişi kripto para gönderimi gerçekleştirecektir. Akıllı sözleşmeler rezervasyonun yapılacağı mekanın sahibine (işletme sahibine) ödemeyi göndermekten ve rezervasyonu da satın alan kişiye vermekten sorumlu yapılardır._
 
 ![image](https://user-images.githubusercontent.com/61885344/187069285-0983f7b6-5c12-4e31-8429-37f5ba1aaf63.png)
