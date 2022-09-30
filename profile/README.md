@@ -6,17 +6,27 @@
 ### 3 - [THE WORKS OF TEAM MEMBERS](https://github.com/where-project#3-the-works-of-team-members)
 
 ## 1. INTRODUCTION
-  Hedeflenen bu uygulama, bulunduğunuz bölgede yeni yerler keşfedebilmenizi, gittiğiniz mekanlarda alacağınız hizmetin ne kadar iyi olabileceği konusunda yorum ve puanlamalara dayanarak tahminde bulunmanızı sağlamaktadır. Bunun yanında restoran, otel veya rezervasyon sistemi ile çalışan işletme ve mekanlara gitmeden önce aracı bir tarafa ihtiyaç duymadan blockchain destekli rezervasyon yapma imkânı sunmaktadır. Yanınızda bulundurduğunuz bir rehber olarak size yol göstermektedir.
+This application allows you to discover new places in your area, and to make predictions about how good the service you will receive in the places you go, based on comments and ratings. In addition, it offers the opportunity to make a blockchain-supported reservation without the need for an third party before going to restaurants, hotels or businesses and places that work with the reservation system. It guides you as a guide that you have with you.
 
-Turistik gezi planlayan veya farklı, yeni işletme ve yerleri keşfetmek isteyen kişilerin daha planlı bir şekilde hareket etmelerini ve kişilerin memnuniyetlerini artırmayı amaçlayan bir platform oluşturmaktır. Bu amaç doğrultusunda gerçekleştireceğimiz proje, insanların mekanları listeleyebildiği, bu mekanlara ait yorum ve puanları görebildiği, mekanlara rezervasyon gerçekleştirebildiği bir ortam oluşturmaktadır. Böylece insanların yeni mekanlar keşfetmesini ve kaliteli zaman geçirmesini sağlayan bir web uygulaması olacaktır.
+It is to create a platform that aims to increase the satisfaction of people who plan touristic trips or who want to explore different, new businesses and places to act in a more planned way. The project we developed for this purpose creates an environment where people can list the places, see the comments and ratings of these places, and make reservations for the places. Thus, it will be a web application that allows people to discover new places and spend quality time.
 
-Oluşturulacak platform son yıllarda popüler olan **Java (Spring Boot framework)**, **React** ve akıllı sözleşmeler için **Solidity** dili kullanılarak yazılmıştır.
+The project is written using the popular **Java (Spring Boot framework)**, **React** and **Solidity** language for smart contracts, which have been popular in recent years.
 
-Projemizde client(istemci)-server(sunucu) modeli kullanacağız. Bu modele göre istemcinin, veri veya hizmet talep eden bir makine olduğunu söyleyebiliriz. Sunucu ise istemciye hizmet ve verileri döndüren makinedir. Sunucular gelen ağ isteklerini dinlerler. Oluşturduğumuz client-server mimarisinde bütün istek ve hizmetler bir ağ üzerinden teslim edilir
+We will use the client-server model in our project. According to this model, we can say that a client is a machine that requests data or services. The server is the machine that returns services and data to the client. Servers listen for incoming network requests. In the client-server architecture we created, all requests and services are delivered over a network.
+
+  _Hedeflenen bu uygulama, bulunduğunuz bölgede yeni yerler keşfedebilmenizi, gittiğiniz mekanlarda alacağınız hizmetin ne kadar iyi olabileceği konusunda yorum ve puanlamalara dayanarak tahminde bulunmanızı sağlamaktadır. Bunun yanında restoran, otel veya rezervasyon sistemi ile çalışan işletme ve mekanlara gitmeden önce aracı bir tarafa ihtiyaç duymadan blockchain destekli rezervasyon yapma imkânı sunmaktadır. Yanınızda bulundurduğunuz bir rehber olarak size yol göstermektedir.
+
+_Turistik gezi planlayan veya farklı, yeni işletme ve yerleri keşfetmek isteyen kişilerin daha planlı bir şekilde hareket etmelerini ve kişilerin memnuniyetlerini artırmayı amaçlayan bir platform oluşturmaktır. Bu amaç doğrultusunda gerçekleştireceğimiz proje, insanların mekanları listeleyebildiği, bu mekanlara ait yorum ve puanları görebildiği, mekanlara rezervasyon gerçekleştirebildiği bir ortam oluşturmaktadır. Böylece insanların yeni mekanlar keşfetmesini ve kaliteli zaman geçirmesini sağlayan bir web uygulaması olacaktır.
+
+_Proje, son yıllarda popüler olan **Java (Spring Boot framework)**, **React** ve akıllı sözleşmeler için **Solidity** dili kullanılarak yazılmıştır.
+
+_Projemizde client(istemci)-server(sunucu) modeli kullanacağız. Bu modele göre istemcinin, veri veya hizmet talep eden bir makine olduğunu söyleyebiliriz. Sunucu ise istemciye hizmet ve verileri döndüren makinedir. Sunucular gelen ağ isteklerini dinlerler. Oluşturduğumuz client-server mimarisinde bütün istek ve hizmetler bir ağ üzerinden teslim edilir.
 
 ![image](https://user-images.githubusercontent.com/61885344/187069017-718e05b8-fb22-4fdc-b458-88dfc6934180.png)
 
-Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin verecektir. Rezervasyon yaptırmak isteyen kişi kripto para gönderimi gerçekleştirecektir. Akıllı sözleşmeler rezervasyonun o anki sahibine (işletme sahibine) ödemeyi göndermekten ve rezervasyonu da satın alan kişiye vermekten sorumlu yapılardır
+Our application will allow listing all registered reservations. The person who wants to make a reservation will send crypto money. Smart contracts are the structures responsible for sending the payment to the owner of the place where the reservation will be made (business owner) and giving the reservation to the buyer.
+
+_Uygulamamız kayıtlı olan bütün rezervasyonların listelenebilmesine izin verecektir. Rezervasyon yaptırmak isteyen kişi kripto para gönderimi gerçekleştirecektir. Akıllı sözleşmeler rezervasyonun yapılacağı mekanın sahibine (işletme sahibine) ödemeyi göndermekten ve rezervasyonu da satın alan kişiye vermekten sorumlu yapılardır.
 
 ![image](https://user-images.githubusercontent.com/61885344/187069285-0983f7b6-5c12-4e31-8429-37f5ba1aaf63.png)
 
